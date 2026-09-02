@@ -24,6 +24,6 @@ It's early — repos will show up here as that work comes online.
 
 ## Where to find us
 
-- [lilaworld.in](https://lilaworld.in/)
+- Website: [lilaworld.in](https://lilaworld.in/)
 - Instagram: [@inlilaworld](https://instagram.com/inlilaworld)
 - Pinterest: [@inlilaworld](https://pinterest.com/inlilaworld)
