@@ -2,10 +2,9 @@
 
 **Create space to grow.**
 
-Lila designs thoughtful, modular, design-led furniture for kids — pieces that adapt
-as a child grows, moving from playtime to study and beyond without needing to be
-replaced. Quality craftsmanship, safety-certified materials, and a calm, minimal
-aesthetic: designed for kids, styled for parents.
+Lila designs thoughtful, modular, design-led furniture for kids — pieces that adapt as a child grows, moving from playtime to study and beyond without needing to be replaced.
+
+Quality craftsmanship, safety-certified materials, and a calm, minimal aesthetic: designed for kids, styled for parents.
 
 ## What we make
 
@@ -19,10 +18,11 @@ aesthetic: designed for kids, styled for parents.
 
 ## This org
 
-This is where Lila's technology and systems work happens. It's early — repos will
-show up here as that work comes online.
+This is where Lila's technology and systems work happens.
 
-## Elsewhere
+It's early — repos will show up here as that work comes online.
+
+## Where to find us
 
 - [lilaworld.in](https://lilaworld.in/)
 - Instagram: [@inlilaworld](https://instagram.com/inlilaworld)
